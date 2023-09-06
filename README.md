@@ -41,7 +41,7 @@ npm install fastify --save
 
 The fastest way to deploy the Fastify application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-fastify&branch=main&name=fastify-on-koyeb&ports=3000;http;/)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=fastify-on-koyeb&type=git&repository=koyeb/example-fastify&branch=main&env[PORT]=3000&ports=3000;http;/)
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
 
